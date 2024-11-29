@@ -1,0 +1,12 @@
+<!--
+  ~ Copyright (c) Created by Busyra 2024.
+  ~ Last modified 11/18/24, 6:46 PM
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ElectricityBills" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>

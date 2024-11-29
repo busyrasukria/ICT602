@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Created by Busyra 2024.
+  ~ Last modified 11/18/24, 6:46 PM
+  -->
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/copyright"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".copyright">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Copyright (c) 2024. All rights reserved."
+        android:textSize="16sp"
+        tools:layout_editor_absoluteX="21dp"
+        tools:layout_editor_absoluteY="838dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
